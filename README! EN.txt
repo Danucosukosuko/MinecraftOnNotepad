@@ -24,7 +24,7 @@ Then it converts all the pixels to grayscale and then converts them all to ASCII
 ==================================================== ====
 To play:
 
-To play it is necessary to open the .notepad folder and open the "minecraft.txt" from that application and right click on the folder and click on "open with Command Prompt" and execute ASCIIMinecraftCapturer1.0.1.exe.
+To play it is necessary to open "notepad2.exe" and open the "minecraft.txt" from that application and right click on the folder and click on "open with Command Prompt" and execute ASCIIMinecraftCapturer1.0.1.exe.
 In this moment, Minecraft are part of notepad.
 ==================================================== ====
 
