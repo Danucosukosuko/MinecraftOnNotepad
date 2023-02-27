@@ -24,7 +24,7 @@ Luego convierte todos los píxeles a escala de grises y luego los convierte a ca
 ================================================== == ====
 Para jugar:
 
-Para jugar es necesario abrir la carpeta .notepad y abrir el "minecraft.txt" desde esa aplicación y hacer clic derecho sobre la carpeta y hacer clic en "abrir con símbolo del sistema" y ejecutar ASCIIMinecraftCapturer1.0.1.exe.
+Para jugar es necesario abrir el archivo "notepad2.exe" y abrir el "minecraft.txt" desde esa aplicación y hacer clic derecho sobre la carpeta y hacer clic en "abrir con símbolo del sistema" y ejecutar ASCIIMinecraftCapturer1.0.1.exe.
 En este momento, Minecraft es parte del bloc de notas.
 ================================================== == ====
 
